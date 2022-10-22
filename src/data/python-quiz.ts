@@ -1,14 +1,14 @@
 const pythonQuiz = [
   {
     Question:
-      "In Python, which of the following is the correct syntax for a key-value pair in a dictionary?",
-    Answer: "key1: value1",
-    Distractor1: "5j",
-    Distractor2: "'key'",
-    Distractor3: "'count'",
+      "In Python, which method is used to write text to a file?",
+    Answer: "write()",
+    Distractor1: "read()",
+    Distractor2: "appending()",
+    Distractor3: "writing()",
     Explanation:
-      "A Python dictionary is a sequence of key-value pairs separated by commas. Here is the correct syntax: key1: value1.",
-    Link: "https://www.freecodecamp.org/news/python-dictionary-methods-dictionaries-in-python/"
+      "In Python the write() method is used to write text to a file.",
+    Link: "https://www.freecodecamp.org/news/python-create-file-how-to-append-and-write-to-a-text-file/"
   },
   {
     Question:
